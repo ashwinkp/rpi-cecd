@@ -54,7 +54,7 @@ extern "C" {
 #define VC_CEC_VENDOR_ID_UNKNOWN 0
 #endif
 
-#define CEC_VENDOR_ID_LG 0xe091 
+#define CEC_VENDOR_ID_LG 0xe091
 #define CEC_VENDOR_ID_LG_QUIRK 0xffff
 
 #define SL_COMMAND_UNKNOWN_01           0x01
